@@ -2467,7 +2467,7 @@ cdef class Matrix(sage.structure.element.Matrix):
         Permute the columns of ``self`` by applying the permutation
         group element ``permutation``.
 
-        As a permutation group element acts on integers `\{1, \hdots, n\}`
+        As a permutation group element acts on integers `\{1, \dots, n\}`
         the columns are considered as being numbered from 1 for this
         operation.
 
@@ -2515,7 +2515,7 @@ cdef class Matrix(sage.structure.element.Matrix):
         of ``self`` by applying the permutation group element
         ``permutation``.
 
-        As a permutation group element acts on integers `\{1,\hdots,n\}`
+        As a permutation group element acts on integers `\{1,\dots,n\}`
         the columns are considered as being numbered from 1 for this
         operation.
 
@@ -2652,7 +2652,7 @@ cdef class Matrix(sage.structure.element.Matrix):
         Permute the rows of ``self`` by applying the permutation
         group element ``permutation``.
 
-        As a permutation group element acts on integers `\{1,\hdots,n\}`
+        As a permutation group element acts on integers `\{1,\dots,n\}`
         the rows are considered as being numbered from 1 for this
         operation.
 
@@ -2698,7 +2698,7 @@ cdef class Matrix(sage.structure.element.Matrix):
         of ``self`` by applying the permutation group element
         ``permutation``.
 
-        As a permutation group element acts on integers `\{1,\hdots,n\}`
+        As a permutation group element acts on integers `\{1,\dots,n\}`
         the rows are considered as being numbered from 1 for this
         operation.
 
@@ -2756,7 +2756,7 @@ cdef class Matrix(sage.structure.element.Matrix):
         group elements ``row_permutation`` and ``column_permutation``
         respectively.
 
-        As a permutation group element acts on integers `\{1,\hdots,n\}`
+        As a permutation group element acts on integers `\{1,\dots,n\}`
         the rows and columns are considered as being numbered from 1 for
         this operation.
 
@@ -2802,7 +2802,7 @@ cdef class Matrix(sage.structure.element.Matrix):
         columns of ``self`` by applying the permutation group
         elements ``row_permutation`` and ``column_permutation``.
 
-        As a permutation group element acts on integers `\{1,\hdots,n\}`
+        As a permutation group element acts on integers `\{1,\dots,n\}`
         the rows are considered as being numbered from 1 for this
         operation.
 
